@@ -10,7 +10,8 @@ Face Detection (Neural Network)
 http://www.mathworks.com/matlabcentral/fileexchange/11073-face-detection-system
 
 BE project - Face detection system on MATLAB
- 1- copy all files and directories to the MATLAB's work folder
+ 
+    1- copy all files and directories to the MATLAB's work folder
      * In order to run the program you must have Image   Processing and Neural Networks Toolboxes
 
     2- find the file named "main.m"
